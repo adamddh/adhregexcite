@@ -3,8 +3,11 @@ Title: Example of Creating a Package for Data-303
 Version: 0.0.0.9000
 Authors@R: 
     person("Adam", "DenHaan", , "add22@students.calvin.edu", role = c("aut", "cre"))
-Description: This is the first package created by Adam DenHaan. This package was created for the Data-303 class
+Description: This is the first package created by Adam DenHaan. This package was created for the Data-303 class.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
