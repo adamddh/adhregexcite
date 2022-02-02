@@ -1,0 +1,9 @@
+pandoc: 2.7.3
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles: {}
+last_built: 2022-02-02T20:12Z
+urls:
+  reference: http://adamddh.me/adhregexcite/reference
+  article: http://adamddh.me/adhregexcite/articles
+
